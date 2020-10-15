@@ -1,1 +1,4 @@
-![Woah!](https://github.com/zxh326/zxh326/blob/master/screenshot-1.png)
+
+### Hi, folks 👋
+
+<img src="https://github-readme-stats.vercel.app/api?username=zxh326&theme=flag-india&count_private=true&include_all_commits=true" />
